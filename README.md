@@ -24,6 +24,6 @@ The following instruction were tested on Chrome web browser
 - In the left panel click on the `https://www.talenox.com` item under the
   `Storage/Cookies` section
 - Copy the value of the `tlx_session` cookie
-- Use the copied value while running the script
+- Use the copied value as SESSION when run the script
 - DO NOT SHARE your session ID with other people as it gives them the access to
   your payslips
