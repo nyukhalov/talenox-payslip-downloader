@@ -16,7 +16,7 @@ python3 download.py SESSION START_YEAR DESTINATION
 
 ## Find your session ID
 
-The following instruction were tested on Chrome web browser
+The following instruction was tested on Chrome web browser
 
 - Log in into Talenox using your existing account
 - Open the developer console (press F12)
