@@ -12,6 +12,9 @@ Download all your Talenox payslips in one go.
 git clone git@github.com:nyukhalov/talenox-payslip-downloader.git
 cd talenox-payslip-downloader
 python3 download.py SESSION START_YEAR DESTINATION
+
+# example
+python3 download.py aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa 2019 /home/aptiv/Downloads/
 ```
 
 ## Find your session ID
