@@ -11,7 +11,7 @@ Download all your Talenox payslips in one go.
 ```bash
 git clone git@github.com:nyukhalov/talenox-payslip-downloader.git
 cd talenox-payslip-downloader
-python3 download.py SESSION START YEAR DESTINATION
+python3 download.py SESSION START_YEAR DESTINATION
 ```
 
 ## Find your session ID
