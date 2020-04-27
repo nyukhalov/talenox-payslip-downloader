@@ -9,7 +9,7 @@ Download all your Talenox payslips in one go.
 ## Installation and Usage
 
 ```bash
-git clone ???
+git clone git@github.com:nyukhalov/talenox-payslip-downloader.git
 cd talenox-payslip-downloader
 python3 download.py SESSION START YEAR DESTINATION
 ```
