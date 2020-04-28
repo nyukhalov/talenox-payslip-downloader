@@ -4,7 +4,7 @@ Download all your Talenox payslips in one go.
 
 ## Prerequisites
 
-- Python 3
+- Python 3.6 or newer
 
 ## Installation and Usage
 
